@@ -1,8 +1,8 @@
-# Professional-README-Generator
+# Professional-README
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description 
-  Your task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. Review the Professional README Guide as a reminder of everything that a high-quality, professional README should contain.
+  helps make a nice looking readme
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -12,14 +12,18 @@
   * [Questions](#questions)
   
   ## Installation 
-  clone the project from the repo, and run NPM i, in the terminal
+  run NPM I then node server.js
   ## Usage 
-  Answer questions to make a readme
+  see above
   ## License 
   This project is license under MIT
   ## Contributing 
-  nothing
+  Nothing
   ## Tests
-  npm test
+  npm run test
   ## Questions
-  If you have any questions about this projects, please contact me directly at Marshall_Rust@yahoo.com. You can view more of my projects at https://github.com/marshall-rust.
+  If you have any questions about this projects, please contact me directly at marshallrust@yahoo.com. You can view more of my projects at https://github.com/Marshall-Rust.
+
+
+https://watch.screencastify.com/v/bqDn2w9dLTjAZo4txJT9
+video of the Walkthrough
